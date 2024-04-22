@@ -1,6 +1,6 @@
 # esp32 spi-flash-tool
 
-A tool to flash spi flash roms.
+A tool to flash spi flash roms with an ESP32.
 
 Includes new Python tool to send the binary image to esp32.
 
